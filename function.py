@@ -15,7 +15,6 @@ _phrase_cache={}
 def contains_lang_chars(lang_ranges, text, dictionary=None, test_null=False, latin_letter_ranges=None):
     if dictionary is None:
         dictionary = set()
-    dictionary=load_dictionary(dictionary)
     # 专业术语，不进行翻译的内容
     # if latin_letter_ranges is None:
     #     latin_letter_ranges= []
@@ -81,8 +80,8 @@ def contains_lang_chars(lang_ranges, text, dictionary=None, test_null=False, lat
     if latin_letter_ranges is not None and not contains_lang_bool:
         for word in words_list.split(' '):
             result=is_in_dictionaty(word.lower(),dictionary)
-            print(f'待识别的单词:{word.lower()}')
-            print(result)
+            # print(f'待识别的单词:{word.lower()}')
+            # print(result)
             if result:
                 is_in_dictionary_bool=True
                 break
@@ -150,7 +149,7 @@ def remove_special_chars(text, spe_char_ranges):
 
 #将测试结果写入 测试结果.csv文件
 def write_result(filename,rows):
-    with open(filename, 'a', newline='', encoding='utf-8') as f:
+    with open(filename, 'a', newline='', encoding='utf-8-sig') as f:
         writer = csv.writer(f)
         # writer.writerow(['翻译内容', 'outerHtml', 'result', 'tips'])
         writer.writerows(rows)

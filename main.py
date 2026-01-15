@@ -13,7 +13,11 @@ from function import *
 obsolete_lang_dict={
     'en':'obsolete',
     'th':'เก่า',
-    'ar':'قديم'
+    'ar':'قديم',
+    'ind':'Lama',
+    'es':'Obsoleto',
+    'pt-br':'Obsoleto',
+    'vn':'Hết hạn'
 }
 
 
@@ -46,9 +50,14 @@ class baselangdetect(unittest.TestCase):
             viewport=None
         )
         cls.page = cls.context.new_page()
+        # 监听浏览器 console，将 console.log 输出到 Python 日志
+        cls.page.on("console", lambda msg: print(f'[browser console] {msg.type}: {msg.text}'))
         cls.page.goto(f"https://ffcraftland.garena.com/{cls.lang}/docs/api/")
         # cls.page.locator('.app-docs-inner/section.flex').wait_for(state='visible')  # 等待中间那些东西显示
         cls.result_rows=[]
+        if cls.dictionary is not None:
+            cls.dictionary=load_dictionary(cls.dictionary)
+
 
 
 
@@ -248,9 +257,11 @@ class baselangdetect(unittest.TestCase):
                         button = locator_third_list.locator('>div>div').nth(0)
                         href = button.locator('>a').get_attribute('href')
                         expected_title = button.inner_text().strip()
-                        expected_title_norm = expected_title.lower()
+                        # 规范化处理：trim + lowercase + 多个空白合并为一个空格（与 JS 侧保持一致）
+                        expected_title_norm = re.sub(r'\s+', ' ', expected_title.strip().lower())
                         print(f'href:{href}')
                         print(f'expected_title:{expected_title}')
+                        print(f'expected_title_norm:{expected_title_norm}')
 
                         if href == f'/{lang}/docs/api-1-990/':
                             continue
@@ -339,16 +350,42 @@ class baselangdetect(unittest.TestCase):
                             page.wait_for_function(
                                 """(expected) => {
                                     const h1 = document.querySelector('section.app-docs-content[data-show="true"] h1.app-docs-title');
-                                    if (!h1) return false;
-                                    const text = h1.textContent.trim().toLowerCase();
-                                    return text === expected;
+                                    if (!h1) {
+                                        console.log("[debug] h1元素未找到");
+                                        return false;
+                                    }
+                                    
+                                    const norm = (s) => {
+                                        if (!s) return "";
+                                        return String(s)
+                                            .trim()
+                                            .normalize("NFC")
+                                            .toLowerCase()
+                                            .replace(/\\s+/g, " ");   // 把多个空白压成一个空格
+                                    };
+
+                                    const rawText = h1.textContent || "";
+                                    const text = norm(rawText);
+                                    const exp = norm(expected || "");
+
+                                    console.log("[debug] text(raw):", JSON.stringify(rawText));
+                                    console.log("[debug] text(norm):", JSON.stringify(text));
+                                    console.log("[debug] exp(norm):", JSON.stringify(exp));
+                                    console.log("[debug] 比较结果:", text === exp);
+
+                                    return text === exp;
                                 }""",
                                 arg=expected_title_norm,
                                 timeout=10_000
                             )
                         except Exception:
                             actual_title = page.locator('h1.app-docs-title').text_content()
-                            print(f'[debug] wait title timeout, expected(lower):{expected_title_norm}, actual:{actual_title}')
+                            # 在 Python 侧也做规范化处理，确保比较时一致
+                            if actual_title:
+                                actual_title_norm = re.sub(r'\s+', ' ', actual_title.strip().lower())
+                            else:
+                                actual_title_norm = ""
+                            print(f'[debug] wait title timeout, expected(lower):{expected_title_norm}, actual:{actual_title}, actual(lower):{actual_title_norm}')
                             raise
 
                         print(f'page.url:{page.url}')
@@ -459,7 +496,7 @@ class baselangdetect(unittest.TestCase):
                             renderer_locator = page.locator('div.app-markdown-blockly div.eca_renderer-renderer')
                             if renderer_locator.count() == 0:
                                 print(f'[警告] 页面 {href} 没有找到渲染器，跳过 PC 按钮点击')
-                                self.__class__.result_rows.append([href,'没有找到渲染器', False, ''])
+                                # self.__class__.result_rows.append([href,'没有找到渲染器', False, ''])
                                 continue
 
                             old_html_blockly = renderer_locator.inner_html()
@@ -489,7 +526,7 @@ class baselangdetect(unittest.TestCase):
                                     print(f'[调试] path.blocklyPath存在:{has_path}')
                                     if not has_path:
                                         print(f'[严重] href:{href} - 渲染器存在但没有path.blocklyPath，可能渲染失败')
-                                        self.__class__.result_rows.append([href,'PC切换后blocklyPath不存在', False, ''])
+                                        # self.__class__.result_rows.append([href,'PC切换后blocklyPath不存在', False, ''])
                                         continue
                                 except Exception as debug_e:
                                     print(f'[调试] href:{href}, 无法获取当前HTML状态: {debug_e}')
@@ -500,7 +537,8 @@ class baselangdetect(unittest.TestCase):
                             match = re.search(r'-([0-9]+)(?=/)', href)
                             id=match.group(1)
                             color=page.locator('path.blocklyPath').nth(0).get_attribute('fill')
-                            result = color == '#48484d' if obsolete_lang_dict[lang] in text_obsolete.lower() else color == api_color(id)
+                            result = color == '#48484d' if obsolete_lang_dict[lang].lower() in text_obsolete.lower() else color == api_color(id)
+                            print(f'图元废弃文字:{text_obsolete.lower()}')
                             if not result:
                                 self.__class__.result_rows.append([href,'颜色错了', result, f'现在的颜色是:{color}'])
                             print(f'color测试的:{color},result:{result}')

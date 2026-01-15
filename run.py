@@ -18,9 +18,11 @@ suite = unittest.TestSuite()
 loader = unittest.TestLoader()
 
 #清空测试结果.csv内容
-test_case_list=[Test_Th_LangDetect,Test_ar_LangDetect]
+test_case_list=[Test_Th_LangDetect,Test_ar_LangDetect,Test_ind_LangDetect,Test_es_LangDetect,Test_ptbr_LangDetect,Test_vn_LangDetect]
+test=[Test_vn_LangDetect]
 
 for i in test_case_list:
+# for i in test:
     suite.addTest(loader.loadTestsFromTestCase(i))
 runner = unittest.TextTestRunner()
 result = runner.run(suite)

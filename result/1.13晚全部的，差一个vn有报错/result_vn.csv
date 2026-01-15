@@ -1,0 +1,617 @@
+test_01_top_menu,,,
+,,,
+test_02_left_menu,,,
+,,,
+test_03_modules_menu,,,
+AI,"<a href=""/vn/docs/module-9/"" class="""">AI</a>",False,https://ffcraftland.garena.com/vn/docs/api/
+,,,
+test_04_enum,,,
+API,"<h1 class=""gfr-title gfr-title-1 gfr-title-left app-docs-title"" data-v-59c410db="""" data-v-557b08fd=""""><!--[-->API <!----><!--]--></h1>",False,https://ffcraftland.garena.com/vn/docs/module-4/
+,,,
+test_05_references_menu,,,
+API,"<a data-v-3385579a="""" href=""/vn/docs/api/"" class=""breadcrumb-link"">API</a>",False,https://ffcraftland.garena.com/vn/docs/api-1-24/
+API,"<span data-v-1b95234f="""" class=""app-markdown-line-title app-markdown-line-title--desktop"">API</span>",False,https://ffcraftland.garena.com/vn/docs/api-1-24/
+API,"<a data-v-3385579a="""" href=""/vn/docs/api/"" class=""breadcrumb-link"">API</a>",False,https://ffcraftland.garena.com/vn/docs/api-1-25/
+API,"<a data-v-3385579a="""" href=""/vn/docs/api/"" class=""breadcrumb-link"">API</a>",False,https://ffcraftland.garena.com/vn/docs/api-1-26/
+Object,"<td><a href=""/vn/docs/type-0"">Object</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-26/
+API,"<a data-v-3385579a="""" href=""/vn/docs/api/"" class=""breadcrumb-link"">API</a>",False,https://ffcraftland.garena.com/vn/docs/api-1-30/
+Int,"<td><a href=""/vn/docs/type-3"">Int</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-30/
+API,"<a data-v-3385579a="""" href=""/vn/docs/api/"" class=""breadcrumb-link"">API</a>",False,https://ffcraftland.garena.com/vn/docs/api-1-31/
+API,"<a data-v-3385579a="""" href=""/vn/docs/api/"" class=""breadcrumb-link"">API</a>",False,https://ffcraftland.garena.com/vn/docs/api-1-36/
+Player,"<td><a href=""/vn/docs/type-14"">Player</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-36/
+EffectType,"<td><a href=""/vn/docs/enum#lo%E1%BA%A1i-hi%E1%BB%87u-%E1%BB%A9ng-vfx"">EffectType</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-36/
+/vn/docs/api-1-36/,颜色错了,False,现在的颜色是:#48484d
+API,"<a data-v-3385579a="""" href=""/vn/docs/api/"" class=""breadcrumb-link"">API</a>",False,https://ffcraftland.garena.com/vn/docs/api-1-37/
+Player,"<td><a href=""/vn/docs/type-14"">Player</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-37/
+EffectType,"<td><a href=""/vn/docs/enum#lo%E1%BA%A1i-hi%E1%BB%87u-%E1%BB%A9ng-vfx"">EffectType</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-37/
+/vn/docs/api-1-37/,颜色错了,False,现在的颜色是:#48484d
+API,"<a data-v-3385579a="""" href=""/vn/docs/api/"" class=""breadcrumb-link"">API</a>",False,https://ffcraftland.garena.com/vn/docs/api-1-38/
+/vn/docs/api-1-38/,颜色错了,False,现在的颜色是:#48484d
+API,"<a data-v-3385579a="""" href=""/vn/docs/api/"" class=""breadcrumb-link"">API</a>",False,https://ffcraftland.garena.com/vn/docs/api-1-39/
+Player,"<td><a href=""/vn/docs/type-14"">Player</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-39/
+Object,"<td><a href=""/vn/docs/type-0"">Object</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-39/
+/vn/docs/api-1-39/,颜色错了,False,现在的颜色是:#48484d
+API,"<a data-v-3385579a="""" href=""/vn/docs/api/"" class=""breadcrumb-link"">API</a>",False,https://ffcraftland.garena.com/vn/docs/api-1-40/
+Player,"<td><a href=""/vn/docs/type-14"">Player</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-40/
+Object,"<td><a href=""/vn/docs/type-0"">Object</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-40/
+/vn/docs/api-1-40/,颜色错了,False,现在的颜色是:#48484d
+API,"<a data-v-3385579a="""" href=""/vn/docs/api/"" class=""breadcrumb-link"">API</a>",False,https://ffcraftland.garena.com/vn/docs/api-1-41/
+/vn/docs/api-1-41/,颜色错了,False,现在的颜色是:#48484d
+API,"<a data-v-3385579a="""" href=""/vn/docs/api/"" class=""breadcrumb-link"">API</a>",False,https://ffcraftland.garena.com/vn/docs/api-1-42/
+Player,"<td><a href=""/vn/docs/type-14"">Player</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-42/
+IconType,"<td><a href=""/vn/docs/enum#lo%E1%BA%A1i-bi%E1%BB%83u-t%C6%B0%E1%BB%A3ng"">IconType</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-42/
+/vn/docs/api-1-42/,颜色错了,False,现在的颜色是:#48484d
+API,"<a data-v-3385579a="""" href=""/vn/docs/api/"" class=""breadcrumb-link"">API</a>",False,https://ffcraftland.garena.com/vn/docs/api-1-43/
+Player,"<td><a href=""/vn/docs/type-14"">Player</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-43/
+IconType,"<td><a href=""/vn/docs/enum#lo%E1%BA%A1i-bi%E1%BB%83u-t%C6%B0%E1%BB%A3ng"">IconType</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-43/
+/vn/docs/api-1-43/,颜色错了,False,现在的颜色是:#48484d
+API,"<a data-v-3385579a="""" href=""/vn/docs/api/"" class=""breadcrumb-link"">API</a>",False,https://ffcraftland.garena.com/vn/docs/api-1-44/
+/vn/docs/api-1-44/,颜色错了,False,现在的颜色是:#48484d
+API,"<a data-v-3385579a="""" href=""/vn/docs/api/"" class=""breadcrumb-link"">API</a>",False,https://ffcraftland.garena.com/vn/docs/api-1-45/
+Bool,"<td><a href=""/vn/docs/type-2"">Bool</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-45/
+API,"<a data-v-3385579a="""" href=""/vn/docs/api/"" class=""breadcrumb-link"">API</a>",False,https://ffcraftland.garena.com/vn/docs/api-1-51/
+Object,"<td><a href=""/vn/docs/type-0"">Object</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-51/
+API,"<a data-v-3385579a="""" href=""/vn/docs/api/"" class=""breadcrumb-link"">API</a>",False,https://ffcraftland.garena.com/vn/docs/api-1-53/
+Player,"<td><a href=""/vn/docs/type-14"">Player</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-53/
+AudioType,"<td><a href=""/vn/docs/enum#lo%E1%BA%A1i-%C3%A2m-thanh"">AudioType</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-53/
+/vn/docs/api-1-53/,颜色错了,False,现在的颜色是:#48484d
+API,"<a data-v-3385579a="""" href=""/vn/docs/api/"" class=""breadcrumb-link"">API</a>",False,https://ffcraftland.garena.com/vn/docs/api-1-63/
+Entity,"<td><a href=""/vn/docs/type-10"">Entity</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-63/
+API,"<a data-v-3385579a="""" href=""/vn/docs/api/"" class=""breadcrumb-link"">API</a>",False,https://ffcraftland.garena.com/vn/docs/api-1-64/
+ListT_Player,"<td><a href=""/vn/docs/type-43"">ListT_Player</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-64/
+API,"<a data-v-3385579a="""" href=""/vn/docs/api/"" class=""breadcrumb-link"">API</a>",False,https://ffcraftland.garena.com/vn/docs/api-1-65/
+ListT_Team,"<td><a href=""/vn/docs/type-44"">ListT_Team</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-65/
+API,"<a data-v-3385579a="""" href=""/vn/docs/api/"" class=""breadcrumb-link"">API</a>",False,https://ffcraftland.garena.com/vn/docs/api-1-70/
+Object,"<td><a href=""/vn/docs/type-0"">Object</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-70/
+Bool,"<td><a href=""/vn/docs/type-2"">Bool</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-70/
+API,"<a data-v-3385579a="""" href=""/vn/docs/api/"" class=""breadcrumb-link"">API</a>",False,https://ffcraftland.garena.com/vn/docs/api-1-72/
+Bool,"<td><a href=""/vn/docs/type-2"">Bool</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-72/
+Bool,"<td><a href=""/vn/docs/type-2"">Bool</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-72/
+API,"<a data-v-3385579a="""" href=""/vn/docs/api/"" class=""breadcrumb-link"">API</a>",False,https://ffcraftland.garena.com/vn/docs/api-1-95/
+Global,"<td><a href=""/vn/docs/type-11"">Global</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-95/
+API,"<a data-v-3385579a="""" href=""/vn/docs/api/"" class=""breadcrumb-link"">API</a>",False,https://ffcraftland.garena.com/vn/docs/api-1-117/
+Player,"<td><a href=""/vn/docs/type-14"">Player</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-117/
+/vn/docs/api-1-117/,颜色错了,False,现在的颜色是:#48484d
+API,"<a data-v-3385579a="""" href=""/vn/docs/api/"" class=""breadcrumb-link"">API</a>",False,https://ffcraftland.garena.com/vn/docs/api-1-120/
+Player,"<td><a href=""/vn/docs/type-14"">Player</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-120/
+/vn/docs/api-1-120/,颜色错了,False,现在的颜色是:#48484d
+API,"<a data-v-3385579a="""" href=""/vn/docs/api/"" class=""breadcrumb-link"">API</a>",False,https://ffcraftland.garena.com/vn/docs/api-1-121/
+entity,"<td><a href=""/vn/docs/type-240"">entity</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-121/
+Player,"<td><a href=""/vn/docs/type-14"">Player</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-121/
+API,"<a data-v-3385579a="""" href=""/vn/docs/api/"" class=""breadcrumb-link"">API</a>",False,https://ffcraftland.garena.com/vn/docs/api-1-136/
+Object,"<td><a href=""/vn/docs/type-0"">Object</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-136/
+API,"<a data-v-3385579a="""" href=""/vn/docs/api/"" class=""breadcrumb-link"">API</a>",False,https://ffcraftland.garena.com/vn/docs/api-1-160/
+Player,"<td><a href=""/vn/docs/type-14"">Player</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-160/
+Object,"<td><a href=""/vn/docs/type-0"">Object</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-160/
+Color,"<td><a href=""/vn/docs/type-87"">Color</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-160/
+Int,"<td><a href=""/vn/docs/type-3"">Int</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-160/
+API,"<a data-v-3385579a="""" href=""/vn/docs/api/"" class=""breadcrumb-link"">API</a>",False,https://ffcraftland.garena.com/vn/docs/api-1-176/
+SpawnableEntity,"<td><a href=""/vn/docs/type-77"">SpawnableEntity</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-176/
+API,"<a data-v-3385579a="""" href=""/vn/docs/api/"" class=""breadcrumb-link"">API</a>",False,https://ffcraftland.garena.com/vn/docs/api-1-195/
+Object,"<td><a href=""/vn/docs/type-0"">Object</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-195/
+Type,"<td><a href=""/vn/docs/type-1027"">Type</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-195/
+API,"<a data-v-3385579a="""" href=""/vn/docs/api/"" class=""breadcrumb-link"">API</a>",False,https://ffcraftland.garena.com/vn/docs/api-1-196/
+Object,"<td><a href=""/vn/docs/type-0"">Object</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-196/
+Type,"<td><a href=""/vn/docs/type-1027"">Type</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-196/
+Bool,"<td><a href=""/vn/docs/type-2"">Bool</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-196/
+API,"<a data-v-3385579a="""" href=""/vn/docs/api/"" class=""breadcrumb-link"">API</a>",False,https://ffcraftland.garena.com/vn/docs/api-1-197/
+Object,"<td><a href=""/vn/docs/type-0"">Object</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-197/
+Type,"<td><a href=""/vn/docs/type-1027"">Type</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-197/
+Bool,"<td><a href=""/vn/docs/type-2"">Bool</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-197/
+API,"<a data-v-3385579a="""" href=""/vn/docs/api/"" class=""breadcrumb-link"">API</a>",False,https://ffcraftland.garena.com/vn/docs/api-1-209/
+R,<td>R</td>,False,https://ffcraftland.garena.com/vn/docs/api-1-209/
+Int,"<td><a href=""/vn/docs/type-3"">Int</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-209/
+G,<td>G</td>,False,https://ffcraftland.garena.com/vn/docs/api-1-209/
+Int,"<td><a href=""/vn/docs/type-3"">Int</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-209/
+B,<td>B</td>,False,https://ffcraftland.garena.com/vn/docs/api-1-209/
+Int,"<td><a href=""/vn/docs/type-3"">Int</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-209/
+Color,"<td><a href=""/vn/docs/type-87"">Color</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-209/
+API,"<a data-v-3385579a="""" href=""/vn/docs/api/"" class=""breadcrumb-link"">API</a>",False,https://ffcraftland.garena.com/vn/docs/api-1-221/
+entity,"<td><a href=""/vn/docs/type-240"">entity</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-221/
+Entity,"<td><a href=""/vn/docs/type-10"">Entity</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-221/
+API,"<a data-v-3385579a="""" href=""/vn/docs/api/"" class=""breadcrumb-link"">API</a>",False,https://ffcraftland.garena.com/vn/docs/api-1-10007/
+Global,"<td><a href=""/vn/docs/type-11"">Global</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-10007/
+API,"<a data-v-3385579a="""" href=""/vn/docs/api/"" class=""breadcrumb-link"">API</a>",False,https://ffcraftland.garena.com/vn/docs/api-1-313/
+TypeOrListType,"<td><a href=""/vn/docs/type-163"">TypeOrListType</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-313/
+TypeOrListType,"<td><a href=""/vn/docs/type-163"">TypeOrListType</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-313/
+TypeOrListType,"<td><a href=""/vn/docs/type-163"">TypeOrListType</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-313/
+ListT_Entity,"<td><a href=""/vn/docs/type-50"">ListT_Entity</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-313/
+API,"<a data-v-3385579a="""" href=""/vn/docs/api/"" class=""breadcrumb-link"">API</a>",False,https://ffcraftland.garena.com/vn/docs/api-1-349/
+entity,"<td><a href=""/vn/docs/type-240"">entity</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-349/
+/vn/docs/api-1-349/,图元块中，没有切换pc按钮,False,
+API,"<a data-v-3385579a="""" href=""/vn/docs/api/"" class=""breadcrumb-link"">API</a>",False,https://ffcraftland.garena.com/vn/docs/api-1-350/
+entity,"<td><a href=""/vn/docs/type-240"">entity</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-350/
+String,"<td><a href=""/vn/docs/type-5"">String</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-350/
+API,"<a data-v-3385579a="""" href=""/vn/docs/api/"" class=""breadcrumb-link"">API</a>",False,https://ffcraftland.garena.com/vn/docs/api-1-351/
+entity,"<td><a href=""/vn/docs/type-240"">entity</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-351/
+String,"<td><a href=""/vn/docs/type-5"">String</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-351/
+API,"<a data-v-3385579a="""" href=""/vn/docs/api/"" class=""breadcrumb-link"">API</a>",False,https://ffcraftland.garena.com/vn/docs/api-1-352/
+entity,"<td><a href=""/vn/docs/type-240"">entity</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-352/
+String,"<td><a href=""/vn/docs/type-5"">String</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-352/
+Bool,"<td><a href=""/vn/docs/type-2"">Bool</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-352/
+API,"<a data-v-3385579a="""" href=""/vn/docs/api/"" class=""breadcrumb-link"">API</a>",False,https://ffcraftland.garena.com/vn/docs/api-1-354/
+entity,"<td><a href=""/vn/docs/type-240"">entity</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-354/
+API,"<a data-v-3385579a="""" href=""/vn/docs/api/"" class=""breadcrumb-link"">API</a>",False,https://ffcraftland.garena.com/vn/docs/api-1-373/
+Player,"<td><a href=""/vn/docs/type-14"">Player</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-373/
+AudioType,"<td><a href=""/vn/docs/enum#lo%E1%BA%A1i-%C3%A2m-thanh"">AudioType</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-373/
+/vn/docs/api-1-373/,颜色错了,False,现在的颜色是:#48484d
+API,"<a data-v-3385579a="""" href=""/vn/docs/api/"" class=""breadcrumb-link"">API</a>",False,https://ffcraftland.garena.com/vn/docs/api-1-413/
+Entity,"<td><a href=""/vn/docs/type-10"">Entity</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-413/
+Bool,"<td><a href=""/vn/docs/type-2"">Bool</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-413/
+API,"<a data-v-3385579a="""" href=""/vn/docs/api/"" class=""breadcrumb-link"">API</a>",False,https://ffcraftland.garena.com/vn/docs/api-1-435/
+Transform,"<td><a href=""/vn/docs/type-97"">Transform</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-435/
+Transform,"<td><a href=""/vn/docs/type-97"">Transform</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-435/
+Bool,"<td><a href=""/vn/docs/type-2"">Bool</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-435/
+API,"<a data-v-3385579a="""" href=""/vn/docs/api/"" class=""breadcrumb-link"">API</a>",False,https://ffcraftland.garena.com/vn/docs/api-1-456/
+EventID,"<td><a href=""/vn/docs/type-358"">EventID</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-456/
+entity,"<td><a href=""/vn/docs/type-240"">entity</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-456/
+List,"<td><a href=""/vn/docs/type-1"">List</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-456/
+API,"<a data-v-3385579a="""" href=""/vn/docs/api/"" class=""breadcrumb-link"">API</a>",False,https://ffcraftland.garena.com/vn/docs/api-1-460/
+/vn/docs/api-1-460/,颜色错了,False,现在的颜色是:#48484d
+API,"<a data-v-3385579a="""" href=""/vn/docs/api/"" class=""breadcrumb-link"">API</a>",False,https://ffcraftland.garena.com/vn/docs/api-1-461/
+Bool,"<td><a href=""/vn/docs/type-2"">Bool</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-461/
+/vn/docs/api-1-461/,颜色错了,False,现在的颜色是:#48484d
+API,"<a data-v-3385579a="""" href=""/vn/docs/api/"" class=""breadcrumb-link"">API</a>",False,https://ffcraftland.garena.com/vn/docs/api-1-471/
+entity,"<td><a href=""/vn/docs/type-240"">entity</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-471/
+GraphID,"<td><a href=""/vn/docs/type-286"">GraphID</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-471/
+API,"<a data-v-3385579a="""" href=""/vn/docs/api/"" class=""breadcrumb-link"">API</a>",False,https://ffcraftland.garena.com/vn/docs/api-1-472/
+entity,"<td><a href=""/vn/docs/type-240"">entity</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-472/
+GraphID,"<td><a href=""/vn/docs/type-286"">GraphID</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-472/
+API,"<a data-v-3385579a="""" href=""/vn/docs/api/"" class=""breadcrumb-link"">API</a>",False,https://ffcraftland.garena.com/vn/docs/api-1-473/
+entity,"<td><a href=""/vn/docs/type-240"">entity</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-473/
+GraphID,"<td><a href=""/vn/docs/type-286"">GraphID</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-473/
+Bool,"<td><a href=""/vn/docs/type-2"">Bool</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-473/
+API,"<a data-v-3385579a="""" href=""/vn/docs/api/"" class=""breadcrumb-link"">API</a>",False,https://ffcraftland.garena.com/vn/docs/api-1-475/
+entity,"<td><a href=""/vn/docs/type-240"">entity</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-475/
+Property,"<td><a href=""/vn/docs/type-180"">Property</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-475/
+Object,"<td><a href=""/vn/docs/type-0"">Object</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-475/
+API,"<a data-v-3385579a="""" href=""/vn/docs/api/"" class=""breadcrumb-link"">API</a>",False,https://ffcraftland.garena.com/vn/docs/api-1-486/
+PrefabID,"<td><a href=""/vn/docs/type-289"">PrefabID</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-486/
+Entity,"<td><a href=""/vn/docs/type-10"">Entity</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-486/
+API,"<a data-v-3385579a="""" href=""/vn/docs/api/"" class=""breadcrumb-link"">API</a>",False,https://ffcraftland.garena.com/vn/docs/api-1-497/
+Int,"<td><a href=""/vn/docs/type-3"">Int</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-497/
+API,"<a data-v-3385579a="""" href=""/vn/docs/api/"" class=""breadcrumb-link"">API</a>",False,https://ffcraftland.garena.com/vn/docs/api-1-498/
+String,"<td><a href=""/vn/docs/type-5"">String</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-498/
+API,"<a data-v-3385579a="""" href=""/vn/docs/api/"" class=""breadcrumb-link"">API</a>",False,https://ffcraftland.garena.com/vn/docs/api-1-511/
+Color,"<td><a href=""/vn/docs/type-87"">Color</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-511/
+R,<td>R</td>,False,https://ffcraftland.garena.com/vn/docs/api-1-511/
+Int,"<td><a href=""/vn/docs/type-3"">Int</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-511/
+G,<td>G</td>,False,https://ffcraftland.garena.com/vn/docs/api-1-511/
+Int,"<td><a href=""/vn/docs/type-3"">Int</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-511/
+B,<td>B</td>,False,https://ffcraftland.garena.com/vn/docs/api-1-511/
+Int,"<td><a href=""/vn/docs/type-3"">Int</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-511/
+A,<td>A</td>,False,https://ffcraftland.garena.com/vn/docs/api-1-511/
+Int,"<td><a href=""/vn/docs/type-3"">Int</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-511/
+API,"<a data-v-3385579a="""" href=""/vn/docs/api/"" class=""breadcrumb-link"">API</a>",False,https://ffcraftland.garena.com/vn/docs/api-1-539/
+Entity,"<td><a href=""/vn/docs/type-10"">Entity</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-539/
+API,"<a data-v-3385579a="""" href=""/vn/docs/api/"" class=""breadcrumb-link"">API</a>",False,https://ffcraftland.garena.com/vn/docs/api-1-540/
+Entity,"<td><a href=""/vn/docs/type-10"">Entity</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-540/
+Int,"<td><a href=""/vn/docs/type-3"">Int</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-540/
+Entity,"<td><a href=""/vn/docs/type-10"">Entity</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-540/
+API,"<a data-v-3385579a="""" href=""/vn/docs/api/"" class=""breadcrumb-link"">API</a>",False,https://ffcraftland.garena.com/vn/docs/api-1-541/
+Entity,"<td><a href=""/vn/docs/type-10"">Entity</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-541/
+ListT_Entity,"<td><a href=""/vn/docs/type-50"">ListT_Entity</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-541/
+API,"<a data-v-3385579a="""" href=""/vn/docs/api/"" class=""breadcrumb-link"">API</a>",False,https://ffcraftland.garena.com/vn/docs/api-1-542/
+Entity,"<td><a href=""/vn/docs/type-10"">Entity</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-542/
+Entity,"<td><a href=""/vn/docs/type-10"">Entity</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-542/
+API,"<a data-v-3385579a="""" href=""/vn/docs/api/"" class=""breadcrumb-link"">API</a>",False,https://ffcraftland.garena.com/vn/docs/api-1-543/
+Player,"<td><a href=""/vn/docs/type-14"">Player</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-543/
+EffectType,"<td><a href=""/vn/docs/enum#lo%E1%BA%A1i-hi%E1%BB%87u-%E1%BB%A9ng-vfx"">EffectType</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-543/
+EffectEntity,"<td><a href=""/vn/docs/type-250"">EffectEntity</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-543/
+/vn/docs/api-1-543/,颜色错了,False,现在的颜色是:#48484d
+API,"<a data-v-3385579a="""" href=""/vn/docs/api/"" class=""breadcrumb-link"">API</a>",False,https://ffcraftland.garena.com/vn/docs/api-1-545/
+Player,"<td><a href=""/vn/docs/type-14"">Player</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-545/
+EffectType,"<td><a href=""/vn/docs/enum#lo%E1%BA%A1i-hi%E1%BB%87u-%E1%BB%A9ng-vfx"">EffectType</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-545/
+EffectEntity,"<td><a href=""/vn/docs/type-250"">EffectEntity</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-545/
+/vn/docs/api-1-545/,颜色错了,False,现在的颜色是:#48484d
+API,"<a data-v-3385579a="""" href=""/vn/docs/api/"" class=""breadcrumb-link"">API</a>",False,https://ffcraftland.garena.com/vn/docs/api-1-547/
+Int,"<td><a href=""/vn/docs/type-3"">Int</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-547/
+TimestampFormatStyle,"<td><a href=""/vn/docs/enum#%C4%91%E1%BB%8Bnh-d%E1%BA%A1ng-hi%E1%BB%83n-th%E1%BB%8B-d%E1%BA%A5u-th%E1%BB%9Di-gian"">TimestampFormatStyle</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-547/
+TimestampLocString,"<td><a href=""/vn/docs/type-255"">TimestampLocString</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-547/
+API,"<a data-v-3385579a="""" href=""/vn/docs/api/"" class=""breadcrumb-link"">API</a>",False,https://ffcraftland.garena.com/vn/docs/api-1-626/
+String,"<td><a href=""/vn/docs/type-5"">String</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-626/
+String,"<td><a href=""/vn/docs/type-5"">String</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-626/
+API,"<a data-v-3385579a="""" href=""/vn/docs/api/"" class=""breadcrumb-link"">API</a>",False,https://ffcraftland.garena.com/vn/docs/api-1-632/
+Player,"<td><a href=""/vn/docs/type-14"">Player</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-632/
+AudioType,"<td><a href=""/vn/docs/enum#lo%E1%BA%A1i-%C3%A2m-thanh"">AudioType</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-632/
+SoundEntity,"<td><a href=""/vn/docs/type-335"">SoundEntity</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-632/
+/vn/docs/api-1-632/,颜色错了,False,现在的颜色是:#48484d
+API,"<a data-v-3385579a="""" href=""/vn/docs/api/"" class=""breadcrumb-link"">API</a>",False,https://ffcraftland.garena.com/vn/docs/api-1-633/
+SoundEntityOrListSoundEntity,"<td><a href=""/vn/docs/type-337"">SoundEntityOrListSoundEntity</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-633/
+/vn/docs/api-1-633/,颜色错了,False,现在的颜色是:#48484d
+API,"<a data-v-3385579a="""" href=""/vn/docs/api/"" class=""breadcrumb-link"">API</a>",False,https://ffcraftland.garena.com/vn/docs/api-1-634/
+SoundEntityOrListSoundEntity,"<td><a href=""/vn/docs/type-337"">SoundEntityOrListSoundEntity</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-634/
+Bool,"<td><a href=""/vn/docs/type-2"">Bool</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-634/
+/vn/docs/api-1-634/,颜色错了,False,现在的颜色是:#48484d
+API,"<a data-v-3385579a="""" href=""/vn/docs/api/"" class=""breadcrumb-link"">API</a>",False,https://ffcraftland.garena.com/vn/docs/api-1-648/
+BotDifficulty,"<td><a href=""/vn/docs/enum#ki%E1%BB%83u-%C4%91%E1%BB%99-kh%C3%B3-bot"">BotDifficulty</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-648/
+Int,"<td><a href=""/vn/docs/type-3"">Int</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-648/
+Player,"<td><a href=""/vn/docs/type-14"">Player</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-648/
+API,"<a data-v-3385579a="""" href=""/vn/docs/api/"" class=""breadcrumb-link"">API</a>",False,https://ffcraftland.garena.com/vn/docs/api-1-649/
+Player,"<td><a href=""/vn/docs/type-14"">Player</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-649/
+API,"<a data-v-3385579a="""" href=""/vn/docs/api/"" class=""breadcrumb-link"">API</a>",False,https://ffcraftland.garena.com/vn/docs/api-1-703/
+String,"<td><a href=""/vn/docs/type-5"">String</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-703/
+Int,"<td><a href=""/vn/docs/type-3"">Int</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-703/
+Color,"<td><a href=""/vn/docs/type-87"">Color</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-703/
+Int,"<td><a href=""/vn/docs/type-3"">Int</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-703/
+Entity,"<td><a href=""/vn/docs/type-10"">Entity</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-703/
+Vector3,"<td><a href=""/vn/docs/type-6"">Vector3</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-703/
+Vector2,"<td><a href=""/vn/docs/type-159"">Vector2</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-703/
+Bool,"<td><a href=""/vn/docs/type-2"">Bool</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-703/
+API,"<a data-v-3385579a="""" href=""/vn/docs/api/"" class=""breadcrumb-link"">API</a>",False,https://ffcraftland.garena.com/vn/docs/api-1-714/
+Object,"<td><a href=""/vn/docs/type-0"">Object</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-714/
+/vn/docs/api-1-714/,图元块中，没有切换pc按钮,False,
+API,"<a data-v-3385579a="""" href=""/vn/docs/api/"" class=""breadcrumb-link"">API</a>",False,https://ffcraftland.garena.com/vn/docs/api-1-715/
+Object,"<td><a href=""/vn/docs/type-0"">Object</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-715/
+/vn/docs/api-1-715/,图元块中，没有切换pc按钮,False,
+API,"<a data-v-3385579a="""" href=""/vn/docs/api/"" class=""breadcrumb-link"">API</a>",False,https://ffcraftland.garena.com/vn/docs/api-1-10044/
+Mountable,"<td><a href=""/vn/docs/type-390"">Mountable</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-10044/
+Transform,"<td><a href=""/vn/docs/type-97"">Transform</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-10044/
+Bool,"<td><a href=""/vn/docs/type-2"">Bool</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-10044/
+API,"<a data-v-3385579a="""" href=""/vn/docs/api/"" class=""breadcrumb-link"">API</a>",False,https://ffcraftland.garena.com/vn/docs/api-1-735/
+SpriteID,"<td><a href=""/vn/docs/type-214"">SpriteID</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-735/
+Color,"<td><a href=""/vn/docs/type-87"">Color</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-735/
+Vector2,"<td><a href=""/vn/docs/type-159"">Vector2</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-735/
+Vector2,"<td><a href=""/vn/docs/type-159"">Vector2</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-735/
+Vector2,"<td><a href=""/vn/docs/type-159"">Vector2</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-735/
+Vector2,"<td><a href=""/vn/docs/type-159"">Vector2</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-735/
+Vector2,"<td><a href=""/vn/docs/type-159"">Vector2</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-735/
+Float,"<td><a href=""/vn/docs/type-4"">Float</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-735/
+API,"<a data-v-3385579a="""" href=""/vn/docs/api/"" class=""breadcrumb-link"">API</a>",False,https://ffcraftland.garena.com/vn/docs/api-1-737/
+Player,"<td><a href=""/vn/docs/type-14"">Player</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-737/
+MatchResultType,"<td><a href=""/vn/docs/enum#lo%E1%BA%A1i-k%E1%BA%BFt-qu%E1%BA%A3-tr%E1%BA%ADn-%C4%91%E1%BA%A5u"">MatchResultType</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-737/
+ListT_String,"<td><a href=""/vn/docs/type-48"">ListT_String</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-737/
+ListT_String,"<td><a href=""/vn/docs/type-48"">ListT_String</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-737/
+API,"<a data-v-3385579a="""" href=""/vn/docs/api/"" class=""breadcrumb-link"">API</a>",False,https://ffcraftland.garena.com/vn/docs/api-1-751/
+entity,"<td><a href=""/vn/docs/type-240"">entity</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-751/
+Type,"<td><a href=""/vn/docs/type-1027"">Type</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-751/
+Bool,"<td><a href=""/vn/docs/type-2"">Bool</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-751/
+API,"<a data-v-3385579a="""" href=""/vn/docs/api/"" class=""breadcrumb-link"">API</a>",False,https://ffcraftland.garena.com/vn/docs/api-1-752/
+entity,"<td><a href=""/vn/docs/type-240"">entity</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-752/
+Type,"<td><a href=""/vn/docs/type-1027"">Type</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-752/
+Bool,"<td><a href=""/vn/docs/type-2"">Bool</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-752/
+API,"<a data-v-3385579a="""" href=""/vn/docs/api/"" class=""breadcrumb-link"">API</a>",False,https://ffcraftland.garena.com/vn/docs/api-1-753/
+entity,"<td><a href=""/vn/docs/type-240"">entity</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-753/
+Type,"<td><a href=""/vn/docs/type-1027"">Type</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-753/
+Bool,"<td><a href=""/vn/docs/type-2"">Bool</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-753/
+API,"<a data-v-3385579a="""" href=""/vn/docs/api/"" class=""breadcrumb-link"">API</a>",False,https://ffcraftland.garena.com/vn/docs/api-1-755/
+StringOrLocString,"<td><a href=""/vn/docs/type-398"">StringOrLocString</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-755/
+StringOrLocString,"<td><a href=""/vn/docs/type-398"">StringOrLocString</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-755/
+ListT_StringOrLocString,<td>ListT_StringOrLocString</td>,False,https://ffcraftland.garena.com/vn/docs/api-1-755/
+Bool,"<td><a href=""/vn/docs/type-2"">Bool</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-755/
+API,"<a data-v-3385579a="""" href=""/vn/docs/api/"" class=""breadcrumb-link"">API</a>",False,https://ffcraftland.garena.com/vn/docs/api-1-760/
+Player,"<td><a href=""/vn/docs/type-14"">Player</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-760/
+API,"<a data-v-3385579a="""" href=""/vn/docs/api/"" class=""breadcrumb-link"">API</a>",False,https://ffcraftland.garena.com/vn/docs/api-1-786/
+Entity,"<td><a href=""/vn/docs/type-10"">Entity</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-786/
+String,"<td><a href=""/vn/docs/type-5"">String</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-786/
+Entity,"<td><a href=""/vn/docs/type-10"">Entity</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-786/
+API,"<a data-v-3385579a="""" href=""/vn/docs/api/"" class=""breadcrumb-link"">API</a>",False,https://ffcraftland.garena.com/vn/docs/api-1-821/
+entity,"<td><a href=""/vn/docs/type-240"">entity</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-821/
+Player,"<td><a href=""/vn/docs/type-14"">Player</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-821/
+Bool,"<td><a href=""/vn/docs/type-2"">Bool</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-821/
+API,"<a data-v-3385579a="""" href=""/vn/docs/api/"" class=""breadcrumb-link"">API</a>",False,https://ffcraftland.garena.com/vn/docs/api-1-822/
+entity,"<td><a href=""/vn/docs/type-240"">entity</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-822/
+Player,"<td><a href=""/vn/docs/type-14"">Player</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-822/
+API,"<a data-v-3385579a="""" href=""/vn/docs/api/"" class=""breadcrumb-link"">API</a>",False,https://ffcraftland.garena.com/vn/docs/api-1-823/
+entity,"<td><a href=""/vn/docs/type-240"">entity</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-823/
+Player,"<td><a href=""/vn/docs/type-14"">Player</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-823/
+API,"<a data-v-3385579a="""" href=""/vn/docs/api/"" class=""breadcrumb-link"">API</a>",False,https://ffcraftland.garena.com/vn/docs/api-1-824/
+entity,"<td><a href=""/vn/docs/type-240"">entity</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-824/
+API,"<a data-v-3385579a="""" href=""/vn/docs/api/"" class=""breadcrumb-link"">API</a>",False,https://ffcraftland.garena.com/vn/docs/api-1-831/
+Player,"<td><a href=""/vn/docs/type-14"">Player</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-831/
+PlayerOrTransform,"<td><a href=""/vn/docs/type-410"">PlayerOrTransform</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-831/
+API,"<a data-v-3385579a="""" href=""/vn/docs/api/"" class=""breadcrumb-link"">API</a>",False,https://ffcraftland.garena.com/vn/docs/api-1-869/
+Player,"<td><a href=""/vn/docs/type-14"">Player</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-869/
+Bool,"<td><a href=""/vn/docs/type-2"">Bool</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-869/
+API,"<a data-v-3385579a="""" href=""/vn/docs/api/"" class=""breadcrumb-link"">API</a>",False,https://ffcraftland.garena.com/vn/docs/api-1-871/
+entity,"<td><a href=""/vn/docs/type-240"">entity</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-871/
+Property,"<td><a href=""/vn/docs/type-180"">Property</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-871/
+Object,"<td><a href=""/vn/docs/type-0"">Object</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-871/
+Int,"<td><a href=""/vn/docs/type-3"">Int</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-871/
+API,"<a data-v-3385579a="""" href=""/vn/docs/api/"" class=""breadcrumb-link"">API</a>",False,https://ffcraftland.garena.com/vn/docs/api-1-872/
+entity,"<td><a href=""/vn/docs/type-240"">entity</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-872/
+Property,"<td><a href=""/vn/docs/type-180"">Property</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-872/
+Object,"<td><a href=""/vn/docs/type-0"">Object</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-872/
+API,"<a data-v-3385579a="""" href=""/vn/docs/api/"" class=""breadcrumb-link"">API</a>",False,https://ffcraftland.garena.com/vn/docs/api-1-882/
+Player,"<td><a href=""/vn/docs/type-14"">Player</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-882/
+PlotID,"<td><a href=""/vn/docs/type-443"">PlotID</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-882/
+/vn/docs/api-1-882/,图元块中，没有切换pc按钮,False,
+API,"<a data-v-3385579a="""" href=""/vn/docs/api/"" class=""breadcrumb-link"">API</a>",False,https://ffcraftland.garena.com/vn/docs/api-1-889/
+LanguageType,"<td><a href=""/vn/docs/enum#ki%E1%BB%83u-ng%C3%B4n-ng%E1%BB%AF"">LanguageType</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-889/
+API,"<a data-v-3385579a="""" href=""/vn/docs/api/"" class=""breadcrumb-link"">API</a>",False,https://ffcraftland.garena.com/vn/docs/api-1-893/
+PrefabID,"<td><a href=""/vn/docs/type-289"">PrefabID</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-893/
+Bool,"<td><a href=""/vn/docs/type-2"">Bool</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-893/
+Entity,"<td><a href=""/vn/docs/type-10"">Entity</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-893/
+API,"<a data-v-3385579a="""" href=""/vn/docs/api/"" class=""breadcrumb-link"">API</a>",False,https://ffcraftland.garena.com/vn/docs/api-1-902/
+Int64,"<td><a href=""/vn/docs/type-108"">Int64</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-902/
+API,"<a data-v-3385579a="""" href=""/vn/docs/api/"" class=""breadcrumb-link"">API</a>",False,https://ffcraftland.garena.com/vn/docs/api-1-903/
+Int64,"<td><a href=""/vn/docs/type-108"">Int64</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-903/
+API,"<a data-v-3385579a="""" href=""/vn/docs/api/"" class=""breadcrumb-link"">API</a>",False,https://ffcraftland.garena.com/vn/docs/api-1-904/
+Int64,"<td><a href=""/vn/docs/type-108"">Int64</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-904/
+TimestampFormatStyle,"<td><a href=""/vn/docs/enum#%C4%91%E1%BB%8Bnh-d%E1%BA%A1ng-hi%E1%BB%83n-th%E1%BB%8B-d%E1%BA%A5u-th%E1%BB%9Di-gian"">TimestampFormatStyle</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-904/
+TimestampMsLocString,"<td><a href=""/vn/docs/type-450"">TimestampMsLocString</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-904/
+API,"<a data-v-3385579a="""" href=""/vn/docs/api/"" class=""breadcrumb-link"">API</a>",False,https://ffcraftland.garena.com/vn/docs/api-1-917/
+AudioID,"<td><a href=""/vn/docs/type-378"">AudioID</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-917/
+Float,"<td><a href=""/vn/docs/type-4"">Float</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-917/
+/vn/docs/api-1-917/,颜色错了,False,现在的颜色是:#48484d
+API,"<a data-v-3385579a="""" href=""/vn/docs/api/"" class=""breadcrumb-link"">API</a>",False,https://ffcraftland.garena.com/vn/docs/api-1-923/
+Int,"<td><a href=""/vn/docs/type-3"">Int</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-923/
+Int,"<td><a href=""/vn/docs/type-3"">Int</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-923/
+Int,"<td><a href=""/vn/docs/type-3"">Int</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-923/
+Int,"<td><a href=""/vn/docs/type-3"">Int</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-923/
+API,"<a data-v-3385579a="""" href=""/vn/docs/api/"" class=""breadcrumb-link"">API</a>",False,https://ffcraftland.garena.com/vn/docs/api-1-924/
+Int,"<td><a href=""/vn/docs/type-3"">Int</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-924/
+Int,"<td><a href=""/vn/docs/type-3"">Int</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-924/
+API,"<a data-v-3385579a="""" href=""/vn/docs/api/"" class=""breadcrumb-link"">API</a>",False,https://ffcraftland.garena.com/vn/docs/api-1-942/
+Player,"<td><a href=""/vn/docs/type-14"">Player</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-942/
+AudioID,"<td><a href=""/vn/docs/type-378"">AudioID</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-942/
+Float,"<td><a href=""/vn/docs/type-4"">Float</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-942/
+API,"<a data-v-3385579a="""" href=""/vn/docs/api/"" class=""breadcrumb-link"">API</a>",False,https://ffcraftland.garena.com/vn/docs/api-1-943/
+AudioID,"<td><a href=""/vn/docs/type-378"">AudioID</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-943/
+Float,"<td><a href=""/vn/docs/type-4"">Float</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-943/
+API,"<a data-v-3385579a="""" href=""/vn/docs/api/"" class=""breadcrumb-link"">API</a>",False,https://ffcraftland.garena.com/vn/docs/api-1-951/
+Entity,"<td><a href=""/vn/docs/type-10"">Entity</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-951/
+Entity,"<td><a href=""/vn/docs/type-10"">Entity</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-951/
+Type,"<td><a href=""/vn/docs/type-1027"">Type</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-951/
+Bool,"<td><a href=""/vn/docs/type-2"">Bool</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-951/
+API,"<a data-v-3385579a="""" href=""/vn/docs/api/"" class=""breadcrumb-link"">API</a>",False,https://ffcraftland.garena.com/vn/docs/api-1-959/
+Entity,"<td><a href=""/vn/docs/type-10"">Entity</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-959/
+Player,"<td><a href=""/vn/docs/type-14"">Player</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-959/
+Bool,"<td><a href=""/vn/docs/type-2"">Bool</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-959/
+API,"<a data-v-3385579a="""" href=""/vn/docs/api/"" class=""breadcrumb-link"">API</a>",False,https://ffcraftland.garena.com/vn/docs/api-1-960/
+Player,"<td><a href=""/vn/docs/type-14"">Player</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-960/
+Bool,"<td><a href=""/vn/docs/type-2"">Bool</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-960/
+API,"<a data-v-3385579a="""" href=""/vn/docs/api/"" class=""breadcrumb-link"">API</a>",False,https://ffcraftland.garena.com/vn/docs/api-1-961/
+Entity,"<td><a href=""/vn/docs/type-10"">Entity</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-961/
+Int,"<td><a href=""/vn/docs/type-3"">Int</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-961/
+Bool,"<td><a href=""/vn/docs/type-2"">Bool</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-961/
+API,"<a data-v-3385579a="""" href=""/vn/docs/api/"" class=""breadcrumb-link"">API</a>",False,https://ffcraftland.garena.com/vn/docs/api-1-962/
+Entity,"<td><a href=""/vn/docs/type-10"">Entity</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-962/
+Bool,"<td><a href=""/vn/docs/type-2"">Bool</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-962/
+Int,"<td><a href=""/vn/docs/type-3"">Int</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-962/
+API,"<a data-v-3385579a="""" href=""/vn/docs/api/"" class=""breadcrumb-link"">API</a>",False,https://ffcraftland.garena.com/vn/docs/api-1-978/
+Object,"<td><a href=""/vn/docs/type-0"">Object</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-978/
+String,"<td><a href=""/vn/docs/type-5"">String</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-978/
+API,"<a data-v-3385579a="""" href=""/vn/docs/api/"" class=""breadcrumb-link"">API</a>",False,https://ffcraftland.garena.com/vn/docs/api-1-10067/
+EventID,"<td><a href=""/vn/docs/type-358"">EventID</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-10067/
+PlatformType,"<td><a href=""/vn/docs/enum#ki%E1%BB%83u-n%E1%BB%81n-t%E1%BA%A3ng"">PlatformType</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-10067/
+List,"<td><a href=""/vn/docs/type-1"">List</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-10067/
+API,"<a data-v-3385579a="""" href=""/vn/docs/api/"" class=""breadcrumb-link"">API</a>",False,https://ffcraftland.garena.com/vn/docs/api-1-993/
+ListT_Vector3,"<td><a href=""/vn/docs/type-49"">ListT_Vector3</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-993/
+MaterialID,"<td><a href=""/vn/docs/type-182"">MaterialID</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-993/
+LineRenderEntity,"<td><a href=""/vn/docs/type-457"">LineRenderEntity</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-993/
+API,"<a data-v-3385579a="""" href=""/vn/docs/api/"" class=""breadcrumb-link"">API</a>",False,https://ffcraftland.garena.com/vn/docs/api-1-994/
+Vector3,"<td><a href=""/vn/docs/type-6"">Vector3</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-994/
+Vector3,"<td><a href=""/vn/docs/type-6"">Vector3</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-994/
+MaterialID,"<td><a href=""/vn/docs/type-182"">MaterialID</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-994/
+ProjectileTrajectory,"<td><a href=""/vn/docs/type-458"">ProjectileTrajectory</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-994/
+API,"<a data-v-3385579a="""" href=""/vn/docs/api/"" class=""breadcrumb-link"">API</a>",False,https://ffcraftland.garena.com/vn/docs/api-1-10104/
+ListT_Observer,<td>ListT_Observer</td>,False,https://ffcraftland.garena.com/vn/docs/api-1-10104/
+API,"<a data-v-3385579a="""" href=""/vn/docs/api/"" class=""breadcrumb-link"">API</a>",False,https://ffcraftland.garena.com/vn/docs/api-1-10105/
+Observer,"<td><a href=""/vn/docs/type-462"">Observer</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-1-10105/
+API,"<a data-v-3385579a="""" href=""/vn/docs/api/"" class=""breadcrumb-link"">API</a>",False,https://ffcraftland.garena.com/vn/docs/api-2-46/
+List,"<td><a href=""/vn/docs/type-1"">List</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-2-46/
+Int,"<td><a href=""/vn/docs/type-3"">Int</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-2-46/
+Object,"<td><a href=""/vn/docs/type-0"">Object</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-2-46/
+API,"<a data-v-3385579a="""" href=""/vn/docs/api/"" class=""breadcrumb-link"">API</a>",False,https://ffcraftland.garena.com/vn/docs/api-2-47/
+List,"<td><a href=""/vn/docs/type-1"">List</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-2-47/
+Object,"<td><a href=""/vn/docs/type-0"">Object</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-2-47/
+API,"<a data-v-3385579a="""" href=""/vn/docs/api/"" class=""breadcrumb-link"">API</a>",False,https://ffcraftland.garena.com/vn/docs/api-2-48/
+List,"<td><a href=""/vn/docs/type-1"">List</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-2-48/
+Object,"<td><a href=""/vn/docs/type-0"">Object</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-2-48/
+API,"<a data-v-3385579a="""" href=""/vn/docs/api/"" class=""breadcrumb-link"">API</a>",False,https://ffcraftland.garena.com/vn/docs/api-2-66/
+List,"<td><a href=""/vn/docs/type-1"">List</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-2-66/
+Int,"<td><a href=""/vn/docs/type-3"">Int</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-2-66/
+API,"<a data-v-3385579a="""" href=""/vn/docs/api/"" class=""breadcrumb-link"">API</a>",False,https://ffcraftland.garena.com/vn/docs/api-2-67/
+List,"<td><a href=""/vn/docs/type-1"">List</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-2-67/
+Int,"<td><a href=""/vn/docs/type-3"">Int</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-2-67/
+Object,"<td><a href=""/vn/docs/type-0"">Object</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-2-67/
+API,"<a data-v-3385579a="""" href=""/vn/docs/api/"" class=""breadcrumb-link"">API</a>",False,https://ffcraftland.garena.com/vn/docs/api-2-152/
+List,"<td><a href=""/vn/docs/type-1"">List</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-2-152/
+Int,"<td><a href=""/vn/docs/type-3"">Int</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-2-152/
+API,"<a data-v-3385579a="""" href=""/vn/docs/api/"" class=""breadcrumb-link"">API</a>",False,https://ffcraftland.garena.com/vn/docs/api-2-10006/
+Int,"<td><a href=""/vn/docs/type-3"">Int</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-2-10006/
+Int,"<td><a href=""/vn/docs/type-3"">Int</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-2-10006/
+List,"<td><a href=""/vn/docs/type-1"">List</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-2-10006/
+API,"<a data-v-3385579a="""" href=""/vn/docs/api/"" class=""breadcrumb-link"">API</a>",False,https://ffcraftland.garena.com/vn/docs/api-2-171/
+List,"<td><a href=""/vn/docs/type-1"">List</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-2-171/
+Object,"<td><a href=""/vn/docs/type-0"">Object</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-2-171/
+Bool,"<td><a href=""/vn/docs/type-2"">Bool</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-2-171/
+API,"<a data-v-3385579a="""" href=""/vn/docs/api/"" class=""breadcrumb-link"">API</a>",False,https://ffcraftland.garena.com/vn/docs/api-2-172/
+List,"<td><a href=""/vn/docs/type-1"">List</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-2-172/
+List,"<td><a href=""/vn/docs/type-1"">List</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-2-172/
+API,"<a data-v-3385579a="""" href=""/vn/docs/api/"" class=""breadcrumb-link"">API</a>",False,https://ffcraftland.garena.com/vn/docs/api-2-173/
+List,"<td><a href=""/vn/docs/type-1"">List</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-2-173/
+Object,"<td><a href=""/vn/docs/type-0"">Object</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-2-173/
+Int,"<td><a href=""/vn/docs/type-3"">Int</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-2-173/
+API,"<a data-v-3385579a="""" href=""/vn/docs/api/"" class=""breadcrumb-link"">API</a>",False,https://ffcraftland.garena.com/vn/docs/api-2-174/
+List,"<td><a href=""/vn/docs/type-1"">List</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-2-174/
+Object,"<td><a href=""/vn/docs/type-0"">Object</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-2-174/
+Int,"<td><a href=""/vn/docs/type-3"">Int</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-2-174/
+API,"<a data-v-3385579a="""" href=""/vn/docs/api/"" class=""breadcrumb-link"">API</a>",False,https://ffcraftland.garena.com/vn/docs/api-2-227/
+List,"<td><a href=""/vn/docs/type-1"">List</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-2-227/
+API,"<a data-v-3385579a="""" href=""/vn/docs/api/"" class=""breadcrumb-link"">API</a>",False,https://ffcraftland.garena.com/vn/docs/api-2-228/
+List,"<td><a href=""/vn/docs/type-1"">List</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-2-228/
+API,"<a data-v-3385579a="""" href=""/vn/docs/api/"" class=""breadcrumb-link"">API</a>",False,https://ffcraftland.garena.com/vn/docs/api-2-229/
+List,"<td><a href=""/vn/docs/type-1"">List</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-2-229/
+List,"<td><a href=""/vn/docs/type-1"">List</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-2-229/
+API,"<a data-v-3385579a="""" href=""/vn/docs/api/"" class=""breadcrumb-link"">API</a>",False,https://ffcraftland.garena.com/vn/docs/api-2-230/
+List,"<td><a href=""/vn/docs/type-1"">List</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-2-230/
+Int,"<td><a href=""/vn/docs/type-3"">Int</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-2-230/
+Object,"<td><a href=""/vn/docs/type-0"">Object</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-2-230/
+API,"<a data-v-3385579a="""" href=""/vn/docs/api/"" class=""breadcrumb-link"">API</a>",False,https://ffcraftland.garena.com/vn/docs/api-2-234/
+List,"<td><a href=""/vn/docs/type-1"">List</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-2-234/
+API,"<a data-v-3385579a="""" href=""/vn/docs/api/"" class=""breadcrumb-link"">API</a>",False,https://ffcraftland.garena.com/vn/docs/api-2-495/
+List,"<td><a href=""/vn/docs/type-1"">List</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-2-495/
+List,"<td><a href=""/vn/docs/type-1"">List</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-2-495/
+Bool,"<td><a href=""/vn/docs/type-2"">Bool</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-2-495/
+Max,"<span data-v-1b95234f="""" class=""app-markdown-line-title app-markdown-line-title--desktop"">Max</span>",False,https://ffcraftland.garena.com/vn/docs/api-2-495/
+API,"<a data-v-3385579a="""" href=""/vn/docs/api/"" class=""breadcrumb-link"">API</a>",False,https://ffcraftland.garena.com/vn/docs/api-2-506/
+Max,"<h1 data-v-557b08fd="""" data-v-59c410db="""" class=""gfr-title gfr-title-1 gfr-title-left app-docs-title"">Max <!----></h1>",False,https://ffcraftland.garena.com/vn/docs/api-2-506/
+List,"<td><a href=""/vn/docs/type-1"">List</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-2-506/
+Bool,"<td><a href=""/vn/docs/type-2"">Bool</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-2-506/
+Number,"<td><a href=""/vn/docs/type-7"">Number</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-2-506/
+API,"<a data-v-3385579a="""" href=""/vn/docs/api/"" class=""breadcrumb-link"">API</a>",False,https://ffcraftland.garena.com/vn/docs/api-2-508/
+List,"<td><a href=""/vn/docs/type-1"">List</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-2-508/
+Bool,"<td><a href=""/vn/docs/type-2"">Bool</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-2-508/
+Number,"<td><a href=""/vn/docs/type-7"">Number</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-2-508/
+Max,"<span data-v-1b95234f="""" class=""app-markdown-line-title app-markdown-line-title--desktop"">Max</span>",False,https://ffcraftland.garena.com/vn/docs/api-2-508/
+API,"<a data-v-3385579a="""" href=""/vn/docs/api/"" class=""breadcrumb-link"">API</a>",False,https://ffcraftland.garena.com/vn/docs/api-3-549/
+Map,"<td><a href=""/vn/docs/type-216"">Map</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-3-549/
+API,"<a data-v-3385579a="""" href=""/vn/docs/api/"" class=""breadcrumb-link"">API</a>",False,https://ffcraftland.garena.com/vn/docs/api-3-550/
+Map,"<td><a href=""/vn/docs/type-216"">Map</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-3-550/
+Object,"<td><a href=""/vn/docs/type-0"">Object</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-3-550/
+Object,"<td><a href=""/vn/docs/type-0"">Object</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-3-550/
+API,"<a data-v-3385579a="""" href=""/vn/docs/api/"" class=""breadcrumb-link"">API</a>",False,https://ffcraftland.garena.com/vn/docs/api-3-551/
+Map,"<td><a href=""/vn/docs/type-216"">Map</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-3-551/
+Object,"<td><a href=""/vn/docs/type-0"">Object</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-3-551/
+Object,"<td><a href=""/vn/docs/type-0"">Object</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-3-551/
+API,"<a data-v-3385579a="""" href=""/vn/docs/api/"" class=""breadcrumb-link"">API</a>",False,https://ffcraftland.garena.com/vn/docs/api-3-552/
+Map,"<td><a href=""/vn/docs/type-216"">Map</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-3-552/
+Object,"<td><a href=""/vn/docs/type-0"">Object</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-3-552/
+API,"<a data-v-3385579a="""" href=""/vn/docs/api/"" class=""breadcrumb-link"">API</a>",False,https://ffcraftland.garena.com/vn/docs/api-3-553/
+Map,"<td><a href=""/vn/docs/type-216"">Map</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-3-553/
+API,"<a data-v-3385579a="""" href=""/vn/docs/api/"" class=""breadcrumb-link"">API</a>",False,https://ffcraftland.garena.com/vn/docs/api-3-554/
+Map,"<td><a href=""/vn/docs/type-216"">Map</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-3-554/
+Int,"<td><a href=""/vn/docs/type-3"">Int</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-3-554/
+API,"<a data-v-3385579a="""" href=""/vn/docs/api/"" class=""breadcrumb-link"">API</a>",False,https://ffcraftland.garena.com/vn/docs/api-3-577/
+Map,"<td><a href=""/vn/docs/type-216"">Map</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-3-577/
+Object,"<td><a href=""/vn/docs/type-0"">Object</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-3-577/
+Bool,"<td><a href=""/vn/docs/type-2"">Bool</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-3-577/
+API,"<a data-v-3385579a="""" href=""/vn/docs/api/"" class=""breadcrumb-link"">API</a>",False,https://ffcraftland.garena.com/vn/docs/api-3-653/
+Map,"<td><a href=""/vn/docs/type-216"">Map</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-3-653/
+ListT_Object,<td>ListT_Object</td>,False,https://ffcraftland.garena.com/vn/docs/api-3-653/
+API,"<a data-v-3385579a="""" href=""/vn/docs/api/"" class=""breadcrumb-link"">API</a>",False,https://ffcraftland.garena.com/vn/docs/api-4-56/
+X,<td>X</td>,False,https://ffcraftland.garena.com/vn/docs/api-4-56/
+Float,"<td><a href=""/vn/docs/type-4"">Float</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-4-56/
+Y,<td>Y</td>,False,https://ffcraftland.garena.com/vn/docs/api-4-56/
+Float,"<td><a href=""/vn/docs/type-4"">Float</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-4-56/
+Z,<td>Z</td>,False,https://ffcraftland.garena.com/vn/docs/api-4-56/
+Float,"<td><a href=""/vn/docs/type-4"">Float</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-4-56/
+Vector3,"<td><a href=""/vn/docs/type-6"">Vector3</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-4-56/
+API,"<a data-v-3385579a="""" href=""/vn/docs/api/"" class=""breadcrumb-link"">API</a>",False,https://ffcraftland.garena.com/vn/docs/api-4-68/
+Int,"<td><a href=""/vn/docs/type-3"">Int</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-4-68/
+Int,"<td><a href=""/vn/docs/type-3"">Int</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-4-68/
+Int,"<td><a href=""/vn/docs/type-3"">Int</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-4-68/
+API,"<a data-v-3385579a="""" href=""/vn/docs/api/"" class=""breadcrumb-link"">API</a>",False,https://ffcraftland.garena.com/vn/docs/api-4-69/
+Float,"<td><a href=""/vn/docs/type-4"">Float</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-4-69/
+Float,"<td><a href=""/vn/docs/type-4"">Float</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-4-69/
+Float,"<td><a href=""/vn/docs/type-4"">Float</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-4-69/
+API,"<a data-v-3385579a="""" href=""/vn/docs/api/"" class=""breadcrumb-link"">API</a>",False,https://ffcraftland.garena.com/vn/docs/api-4-71/
+Number,"<td><a href=""/vn/docs/type-7"">Number</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-4-71/
+Number,"<td><a href=""/vn/docs/type-7"">Number</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-4-71/
+API,"<a data-v-3385579a="""" href=""/vn/docs/api/"" class=""breadcrumb-link"">API</a>",False,https://ffcraftland.garena.com/vn/docs/api-4-73/
+Float,"<td><a href=""/vn/docs/type-4"">Float</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-4-73/
+Float,"<td><a href=""/vn/docs/type-4"">Float</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-4-73/
+API,"<a data-v-3385579a="""" href=""/vn/docs/api/"" class=""breadcrumb-link"">API</a>",False,https://ffcraftland.garena.com/vn/docs/api-4-74/
+Number,"<td><a href=""/vn/docs/type-7"">Number</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-4-74/
+Number,"<td><a href=""/vn/docs/type-7"">Number</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-4-74/
+API,"<a data-v-3385579a="""" href=""/vn/docs/api/"" class=""breadcrumb-link"">API</a>",False,https://ffcraftland.garena.com/vn/docs/api-4-80/
+Vector3,"<td><a href=""/vn/docs/type-6"">Vector3</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-4-80/
+Float,"<td><a href=""/vn/docs/type-4"">Float</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-4-80/
+/vn/docs/api-4-80/,图元块中，没有切换pc按钮,False,
+API,"<a data-v-3385579a="""" href=""/vn/docs/api/"" class=""breadcrumb-link"">API</a>",False,https://ffcraftland.garena.com/vn/docs/api-4-81/
+Vector3,"<td><a href=""/vn/docs/type-6"">Vector3</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-4-81/
+X,<td>X</td>,False,https://ffcraftland.garena.com/vn/docs/api-4-81/
+Float,"<td><a href=""/vn/docs/type-4"">Float</a></td>",False,https://ffcraftland.garena.com/vn/docs/api-4-81/
+/vn/docs/api-4-81/,图元块中，没有切换pc按钮,False,
+,,,
+test_06_api_self,,,
+API,"<h1 data-v-557b08fd="""" data-v-59c410db="""" class=""gfr-title gfr-title-1 gfr-title-left app-docs-title"">API <!----></h1>",False,https://ffcraftland.garena.com/vn/docs/api/
+,,,
+test_07_modules,,,
+API,"<h1 id=""api"" tabindex=""-1""><a class=""header-anchor"" href=""#api"">API</a></h1>",False,https://ffcraftland.garena.com/vn/docs/module-3/
+Max,"<td><a href=""/vn/docs/api-2-506"">Max</a></td>",False,https://ffcraftland.garena.com/vn/docs/module-3/
+API,"<a data-v-c50cbc94="""" href=""#api"" data-slug=""api"" class=""app-doc-nav-link"">API</a>",False,https://ffcraftland.garena.com/vn/docs/module-3/
+API,"<h1 id=""api"" tabindex=""-1""><a class=""header-anchor"" href=""#api"">API</a></h1>",False,https://ffcraftland.garena.com/vn/docs/module-4/
+API,"<a data-v-c50cbc94="""" href=""#api"" data-slug=""api"" class=""app-doc-nav-link"">API</a>",False,https://ffcraftland.garena.com/vn/docs/module-4/
+API,"<h1 id=""api"" tabindex=""-1""><a class=""header-anchor"" href=""#api"">API</a></h1>",False,https://ffcraftland.garena.com/vn/docs/module-5/
+Sin,"<td><a href=""/vn/docs/api-4-157"">Sin</a></td>",False,https://ffcraftland.garena.com/vn/docs/module-5/
+Cos,"<td><a href=""/vn/docs/api-4-158"">Cos</a></td>",False,https://ffcraftland.garena.com/vn/docs/module-5/
+Tan,"<td><a href=""/vn/docs/api-4-159"">Tan</a></td>",False,https://ffcraftland.garena.com/vn/docs/module-5/
+ASin,"<td><a href=""/vn/docs/api-4-362"">ASin</a></td>",False,https://ffcraftland.garena.com/vn/docs/module-5/
+Max,"<td><a href=""/vn/docs/api-4-505"">Max</a></td>",False,https://ffcraftland.garena.com/vn/docs/module-5/
+Lerp,"<td><a href=""/vn/docs/api-4-509"">Lerp</a></td>",False,https://ffcraftland.garena.com/vn/docs/module-5/
+ATan2,"<td><a href=""/vn/docs/api-4-744"">ATan2</a></td>",False,https://ffcraftland.garena.com/vn/docs/module-5/
+API,"<a data-v-c50cbc94="""" href=""#api"" data-slug=""api"" class=""app-doc-nav-link"">API</a>",False,https://ffcraftland.garena.com/vn/docs/module-5/
+API,"<h1 id=""api"" tabindex=""-1""><a class=""header-anchor"" href=""#api"">API</a></h1>",False,https://ffcraftland.garena.com/vn/docs/module-6/
+AI,"<span data-v-1b95234f="""" class=""app-markdown-line-title app-markdown-line-title--desktop"">AI</span>",False,https://ffcraftland.garena.com/vn/docs/module-6/
+API,"<a data-v-c50cbc94="""" href=""#api"" data-slug=""api"" class=""app-doc-nav-link"">API</a>",False,https://ffcraftland.garena.com/vn/docs/module-6/
+API,"<h1 id=""api"" tabindex=""-1""><a class=""header-anchor"" href=""#api"">API</a></h1>",False,https://ffcraftland.garena.com/vn/docs/module-9/
+API,"<a data-v-c50cbc94="""" href=""#api"" data-slug=""api"" class=""app-doc-nav-link"">API</a>",False,https://ffcraftland.garena.com/vn/docs/module-9/
+AI,"<h1 data-v-557b08fd="""" data-v-59c410db="""" class=""gfr-title gfr-title-1 gfr-title-left app-docs-title"">AI <!----></h1>",False,https://ffcraftland.garena.com/vn/docs/module-43/
+API,"<h1 id=""api"" tabindex=""-1""><a class=""header-anchor"" href=""#api"">API</a></h1>",False,https://ffcraftland.garena.com/vn/docs/module-43/
+AI,"<span data-v-1b95234f="""" class=""app-markdown-line-title app-markdown-line-title--desktop"">AI</span>",False,https://ffcraftland.garena.com/vn/docs/module-43/
+API,"<a data-v-c50cbc94="""" href=""#api"" data-slug=""api"" class=""app-doc-nav-link"">API</a>",False,https://ffcraftland.garena.com/vn/docs/module-43/
+API,"<h1 id=""api"" tabindex=""-1""><a class=""header-anchor"" href=""#api"">API</a></h1>",False,https://ffcraftland.garena.com/vn/docs/module-13/
+API,"<a data-v-c50cbc94="""" href=""#api"" data-slug=""api"" class=""app-doc-nav-link"">API</a>",False,https://ffcraftland.garena.com/vn/docs/module-13/
+API,"<h1 id=""api"" tabindex=""-1""><a class=""header-anchor"" href=""#api"">API</a></h1>",False,https://ffcraftland.garena.com/vn/docs/module-15/
+Set skybox,"<td><a href=""/vn/docs/api-13-241"">Set skybox</a></td>",False,https://ffcraftland.garena.com/vn/docs/module-15/
+API,"<a data-v-c50cbc94="""" href=""#api"" data-slug=""api"" class=""app-doc-nav-link"">API</a>",False,https://ffcraftland.garena.com/vn/docs/module-15/
+API,"<h1 id=""api"" tabindex=""-1""><a class=""header-anchor"" href=""#api"">API</a></h1>",False,https://ffcraftland.garena.com/vn/docs/module-16/
+API,"<a data-v-c50cbc94="""" href=""#api"" data-slug=""api"" class=""app-doc-nav-link"">API</a>",False,https://ffcraftland.garena.com/vn/docs/module-16/
+API,"<h1 id=""api"" tabindex=""-1""><a class=""header-anchor"" href=""#api"">API</a></h1>",False,https://ffcraftland.garena.com/vn/docs/module-20/
+API,"<a data-v-c50cbc94="""" href=""#api"" data-slug=""api"" class=""app-doc-nav-link"">API</a>",False,https://ffcraftland.garena.com/vn/docs/module-20/
+API,"<h1 id=""api"" tabindex=""-1""><a class=""header-anchor"" href=""#api"">API</a></h1>",False,https://ffcraftland.garena.com/vn/docs/module-21/
+API,"<a data-v-c50cbc94="""" href=""#api"" data-slug=""api"" class=""app-doc-nav-link"">API</a>",False,https://ffcraftland.garena.com/vn/docs/module-21/
+API,"<h1 id=""api"" tabindex=""-1""><a class=""header-anchor"" href=""#api"">API</a></h1>",False,https://ffcraftland.garena.com/vn/docs/module-24/
+API,"<a data-v-c50cbc94="""" href=""#api"" data-slug=""api"" class=""app-doc-nav-link"">API</a>",False,https://ffcraftland.garena.com/vn/docs/module-24/
+API,"<h1 id=""api"" tabindex=""-1""><a class=""header-anchor"" href=""#api"">API</a></h1>",False,https://ffcraftland.garena.com/vn/docs/module-26/
+API,"<a data-v-c50cbc94="""" href=""#api"" data-slug=""api"" class=""app-doc-nav-link"">API</a>",False,https://ffcraftland.garena.com/vn/docs/module-26/
+Spotlight,"<td><a href=""/vn/docs/type-426"">Spotlight</a></td>",False,https://ffcraftland.garena.com/vn/docs/module-28/
+API,"<h1 id=""api"" tabindex=""-1""><a class=""header-anchor"" href=""#api"">API</a></h1>",False,https://ffcraftland.garena.com/vn/docs/module-28/
+API,"<a data-v-c50cbc94="""" href=""#api"" data-slug=""api"" class=""app-doc-nav-link"">API</a>",False,https://ffcraftland.garena.com/vn/docs/module-28/
+API,"<h1 id=""api"" tabindex=""-1""><a class=""header-anchor"" href=""#api"">API</a></h1>",False,https://ffcraftland.garena.com/vn/docs/module-30/
+API,"<a data-v-c50cbc94="""" href=""#api"" data-slug=""api"" class=""app-doc-nav-link"">API</a>",False,https://ffcraftland.garena.com/vn/docs/module-30/
+TweenStyle,"<td><a href=""/vn/docs/enum#tweenstyle"">TweenStyle</a></td>",False,https://ffcraftland.garena.com/vn/docs/module-35/
+Tween,"<td><a href=""/vn/docs/type-203"">Tween</a></td>",False,https://ffcraftland.garena.com/vn/docs/module-35/
+API,"<h1 id=""api"" tabindex=""-1""><a class=""header-anchor"" href=""#api"">API</a></h1>",False,https://ffcraftland.garena.com/vn/docs/module-35/
+API,"<a data-v-c50cbc94="""" href=""#api"" data-slug=""api"" class=""app-doc-nav-link"">API</a>",False,https://ffcraftland.garena.com/vn/docs/module-35/
+API,"<h1 id=""api"" tabindex=""-1""><a class=""header-anchor"" href=""#api"">API</a></h1>",False,https://ffcraftland.garena.com/vn/docs/module-36/
+API,"<a data-v-c50cbc94="""" href=""#api"" data-slug=""api"" class=""app-doc-nav-link"">API</a>",False,https://ffcraftland.garena.com/vn/docs/module-36/
+API,"<h1 id=""api"" tabindex=""-1""><a class=""header-anchor"" href=""#api"">API</a></h1>",False,https://ffcraftland.garena.com/vn/docs/module-37/
+API,"<a data-v-c50cbc94="""" href=""#api"" data-slug=""api"" class=""app-doc-nav-link"">API</a>",False,https://ffcraftland.garena.com/vn/docs/module-37/
+T_49_META_TYPE_447_D,<td>T_49_META_TYPE_447_D</td>,False,https://ffcraftland.garena.com/vn/docs/module-38/
+API,"<h1 id=""api"" tabindex=""-1""><a class=""header-anchor"" href=""#api"">API</a></h1>",False,https://ffcraftland.garena.com/vn/docs/module-38/
+API,"<a data-v-c50cbc94="""" href=""#api"" data-slug=""api"" class=""app-doc-nav-link"">API</a>",False,https://ffcraftland.garena.com/vn/docs/module-38/
+API,"<a data-v-c50cbc94="""" href=""#api"" data-slug=""api"" class=""app-doc-nav-link font-bold text-primary"">API</a>",False,https://ffcraftland.garena.com/vn/docs/module-41/
+API,"<h1 id=""api"" tabindex=""-1""><a class=""header-anchor"" href=""#api"">API</a></h1>",False,https://ffcraftland.garena.com/vn/docs/module-39/
+API,"<a data-v-c50cbc94="""" href=""#api"" data-slug=""api"" class=""app-doc-nav-link font-bold text-primary"">API</a>",False,https://ffcraftland.garena.com/vn/docs/module-39/
+API,"<a data-v-c50cbc94="""" href=""#api"" data-slug=""api"" class=""app-doc-nav-link font-bold text-primary"">API</a>",False,https://ffcraftland.garena.com/vn/docs/module-11/
+API,"<h1 id=""api"" tabindex=""-1""><a class=""header-anchor"" href=""#api"">API</a></h1>",False,https://ffcraftland.garena.com/vn/docs/module-29/
+API,"<a data-v-c50cbc94="""" href=""#api"" data-slug=""api"" class=""app-doc-nav-link font-bold text-primary"">API</a>",False,https://ffcraftland.garena.com/vn/docs/module-29/
+API,"<h1 id=""api"" tabindex=""-1""><a class=""header-anchor"" href=""#api"">API</a></h1>",False,https://ffcraftland.garena.com/vn/docs/module-42/
+API,"<a data-v-c50cbc94="""" href=""#api"" data-slug=""api"" class=""app-doc-nav-link"">API</a>",False,https://ffcraftland.garena.com/vn/docs/module-42/
+API,"<a data-v-c50cbc94="""" href=""#api"" data-slug=""api"" class=""app-doc-nav-link font-bold text-primary"">API</a>",False,https://ffcraftland.garena.com/vn/docs/module-18/
+API,"<h1 id=""api"" tabindex=""-1""><a class=""header-anchor"" href=""#api"">API</a></h1>",False,https://ffcraftland.garena.com/vn/docs/module-33/
+API,"<a data-v-c50cbc94="""" href=""#api"" data-slug=""api"" class=""app-doc-nav-link font-bold text-primary"">API</a>",False,https://ffcraftland.garena.com/vn/docs/module-33/
+Rigidbody,"<td><a href=""/vn/docs/type-257"">Rigidbody</a></td>",False,https://ffcraftland.garena.com/vn/docs/module-8/
+API,"<h1 id=""api"" tabindex=""-1""><a class=""header-anchor"" href=""#api"">API</a></h1>",False,https://ffcraftland.garena.com/vn/docs/module-8/
+API,"<a data-v-c50cbc94="""" href=""#api"" data-slug=""api"" class=""app-doc-nav-link"">API</a>",False,https://ffcraftland.garena.com/vn/docs/module-8/
+API,"<h1 id=""api"" tabindex=""-1""><a class=""header-anchor"" href=""#api"">API</a></h1>",False,https://ffcraftland.garena.com/vn/docs/module-34/
+API,"<a data-v-c50cbc94="""" href=""#api"" data-slug=""api"" class=""app-doc-nav-link"">API</a>",False,https://ffcraftland.garena.com/vn/docs/module-34/
+API,"<h1 id=""api"" tabindex=""-1""><a class=""header-anchor"" href=""#api"">API</a></h1>",False,https://ffcraftland.garena.com/vn/docs/module-19/
+API,"<a data-v-c50cbc94="""" href=""#api"" data-slug=""api"" class=""app-doc-nav-link"">API</a>",False,https://ffcraftland.garena.com/vn/docs/module-19/
+API,"<h1 id=""api"" tabindex=""-1""><a class=""header-anchor"" href=""#api"">API</a></h1>",False,https://ffcraftland.garena.com/vn/docs/module-40/
+API,"<a data-v-c50cbc94="""" href=""#api"" data-slug=""api"" class=""app-doc-nav-link"">API</a>",False,https://ffcraftland.garena.com/vn/docs/module-40/
+API,"<h1 id=""api"" tabindex=""-1""><a class=""header-anchor"" href=""#api"">API</a></h1>",False,https://ffcraftland.garena.com/vn/docs/module-17/
+API,"<a data-v-c50cbc94="""" href=""#api"" data-slug=""api"" class=""app-doc-nav-link"">API</a>",False,https://ffcraftland.garena.com/vn/docs/module-17/
+ID Skin Balo,"<td><a href=""/vn/docs/type-388"">ID Skin Balo</a></td>",False,https://ffcraftland.garena.com/vn/docs/module-25/
+ID Skin Balo,<td>ID Skin Balo</td>,False,https://ffcraftland.garena.com/vn/docs/module-25/
+ID Skin Balo,<td>ID Skin Balo</td>,False,https://ffcraftland.garena.com/vn/docs/module-25/
+API,"<h1 id=""api"" tabindex=""-1""><a class=""header-anchor"" href=""#api"">API</a></h1>",False,https://ffcraftland.garena.com/vn/docs/module-25/
+Set skin Balo,"<td><a href=""/vn/docs/api-17-727"">Set skin Balo</a></td>",False,https://ffcraftland.garena.com/vn/docs/module-25/
+API,"<a data-v-c50cbc94="""" href=""#api"" data-slug=""api"" class=""app-doc-nav-link"">API</a>",False,https://ffcraftland.garena.com/vn/docs/module-25/
+API,"<h1 id=""api"" tabindex=""-1""><a class=""header-anchor"" href=""#api"">API</a></h1>",False,https://ffcraftland.garena.com/vn/docs/module-31/
+API,"<a data-v-c50cbc94="""" href=""#api"" data-slug=""api"" class=""app-doc-nav-link"">API</a>",False,https://ffcraftland.garena.com/vn/docs/module-31/
+API,"<h1 id=""api"" tabindex=""-1""><a class=""header-anchor"" href=""#api"">API</a></h1>",False,https://ffcraftland.garena.com/vn/docs/module-7/
+API,"<a data-v-c50cbc94="""" href=""#api"" data-slug=""api"" class=""app-doc-nav-link"">API</a>",False,https://ffcraftland.garena.com/vn/docs/module-7/
+API,"<h1 id=""api"" tabindex=""-1""><a class=""header-anchor"" href=""#api"">API</a></h1>",False,https://ffcraftland.garena.com/vn/docs/module-27/
+API,"<a data-v-c50cbc94="""" href=""#api"" data-slug=""api"" class=""app-doc-nav-link"">API</a>",False,https://ffcraftland.garena.com/vn/docs/module-27/
+API,"<h1 id=""api"" tabindex=""-1""><a class=""header-anchor"" href=""#api"">API</a></h1>",False,https://ffcraftland.garena.com/vn/docs/module-32/
+API,"<a data-v-c50cbc94="""" href=""#api"" data-slug=""api"" class=""app-doc-nav-link"">API</a>",False,https://ffcraftland.garena.com/vn/docs/module-32/
+API,"<h1 id=""api"" tabindex=""-1""><a class=""header-anchor"" href=""#api"">API</a></h1>",False,https://ffcraftland.garena.com/vn/docs/module-44/
+API,"<a data-v-c50cbc94="""" href=""#api"" data-slug=""api"" class=""app-doc-nav-link"">API</a>",False,https://ffcraftland.garena.com/vn/docs/module-44/
+API,"<h1 id=""api"" tabindex=""-1""><a class=""header-anchor"" href=""#api"">API</a></h1>",False,https://ffcraftland.garena.com/vn/docs/module-47/
+API,"<a data-v-c50cbc94="""" href=""#api"" data-slug=""api"" class=""app-doc-nav-link"">API</a>",False,https://ffcraftland.garena.com/vn/docs/module-47/
+,,,
